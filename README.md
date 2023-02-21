@@ -8,6 +8,3 @@ Contains UI for two movie streams
 2. Money Heist.
 
 Pages can be viewed from the POPULAR THIS WEEK SECTION
-
-# Google might show its dangerous but you can proceed without fear
-https://mananag-1784.github.io/Netflix_UI_clone/
