@@ -15,7 +15,7 @@
 /* HEADER... */
 section::before{
     content:"";
-    background: url('../5. Netflix/images/Netflix-Background2.jpg');
+    background: url(' images/Netflix-Background2.jpg');
     z-index:-1;
     position: absolute;
     top:0px;

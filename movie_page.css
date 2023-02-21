@@ -12,7 +12,7 @@ body{
 }
 body::before{
     content:"";
-    background: url('../5. Netflix/images/stranger_things.jpeg');
+    background: url(' images/stranger_things.jpeg');
     z-index:-1;
     position: absolute;
     top:0px;
